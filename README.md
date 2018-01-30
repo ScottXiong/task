@@ -5,3 +5,4 @@
 2,jsp+db+mkd  <br>
 3,ftp<br>
 4.ssh<br>
+5.独立的blog
